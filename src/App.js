@@ -203,7 +203,7 @@ function App() {
       >
         <StyledLogo
           alt={"logo"}
-          src={"https://via.placeholder.com/300x100?text=Logo"}
+          src={"/config/images/logo.png"}
         />
         <s.SpacerSmall />
         <ResponsiveWrapper flex={1} style={{ padding: 24 }} test>
